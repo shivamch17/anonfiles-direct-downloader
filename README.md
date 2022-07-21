@@ -1,4 +1,4 @@
-# anonfiles-direct-downloader
+# Anonfiles Direct Link Downloader
 
 ## Download Using Input Search
 - Just visit http://anonfiles.shivamch.rf.gd
